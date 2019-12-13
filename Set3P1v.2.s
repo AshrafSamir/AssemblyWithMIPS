@@ -1,4 +1,9 @@
-   # Prog.s ... comment giving description of function
+   # 
+   # if (g >= h)
+   #	g++;
+   #  else 
+   #    g--;
+
 # Author ...
 # Ashraf Samir Ali
 # 20170053
